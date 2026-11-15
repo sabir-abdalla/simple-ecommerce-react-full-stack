@@ -37,10 +37,10 @@ Production (npm start) – a single server only:
 ## Quick Start
 
 cd simple-react-full-stack
-npm install        # (or yarn)
+npm install        
 
-# Development: client on http://localhost:3000, API on :8080
+Development: client on http://localhost:3000, API on :8080
 npm run dev
 
-# Production: builds dist/ and serves everything on :8080
+Production: builds dist/ and serves everything on :8080
 npm start
